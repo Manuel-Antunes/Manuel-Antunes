@@ -4,10 +4,6 @@ Were Welcome!
 
 <p align="center">
 My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
-</p>
-
-![](https://img.shields.io/badge/mail.nerdbroz2@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.nerdbroz2@gmail.com)
-![](https://img.shields.io/badge/Manuel%20Antunes-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/manuel-antunes-9b69771b0/)
 
 
 #### 😎 Skills
