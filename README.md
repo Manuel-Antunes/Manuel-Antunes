@@ -2,9 +2,18 @@
 Were Welcome!
 </h1>
 
+
+
 <p align="center">
 My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
-
+  
+</p>
+<a href="mailto:mail.nerdbroz2@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/mail.nerdbroz2@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.nerdbroz2@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/manuel-antunes-9b69771b0/">
+  <img src="https://img.shields.io/badge/Manuel%20Antunes-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/manuel-antunes-9b69771b0/"/>
+</a>
 
 #### 😎 Skills
 ![](https://img.shields.io/badge/Java-F74141?style=flat&logo=Java)
