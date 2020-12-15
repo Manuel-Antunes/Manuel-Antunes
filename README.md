@@ -39,8 +39,8 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
 ![](https://img.shields.io/badge/Tensorflow-pink?style=flat&logo=tensorflow)
 
 #### 📊 Statistics to Nerds:
-<img src="https://github-readme-stats.vercel.app/api?username=manuel-antunes&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-antunes">
+<img src="https://github-readme-stats.vercel.app/api?username=manuel-antunes&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-antunes&theme=radical">
 
 #### 🚀 Working:
 - IVoucher a system to make your tours more smart;
