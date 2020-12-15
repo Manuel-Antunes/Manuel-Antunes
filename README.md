@@ -24,6 +24,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
 ![](https://img.shields.io/badge/C-blue?style=flat)
 ![](https://img.shields.io/badge/Python-002750?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/PHP-6F73A7?style=flat&logo=PHP&logoColor=white)
+![](https://img.shields.io/badge/ElasticSerach-white?style=flat&logo=ElasticSearch&logoColor=FF2800)
 
 ![](https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=Unreal-Engine)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript)
@@ -33,10 +34,11 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
 ![](https://img.shields.io/badge/Adonisjs-7159C1?style=flat&logoColor=white&logo=Adonisjs)
 
 
-##### 📚 Learning:
+#### 📚 Learning:
 ![](https://img.shields.io/badge/ruby-9B111E?style=flat&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-pink?style=flat&logo=tensorflow)
 
+#### 📊 Statistics to Nerds:
 <img src="https://github-readme-stats.vercel.app/api?username=manuel-antunes&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-antunes">
 
