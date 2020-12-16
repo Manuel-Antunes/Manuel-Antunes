@@ -50,7 +50,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
 - Peixonalta System;
 
 #### 🎓 Education:
-- Técnico em Informática - Insituto Federal de Alagoas - Campus Arapiraca (2016 - 2020) ⌛
+- Técnico em Informática - Insituto Federal de Alagoas - Campus Arapiraca (2016 - Now...) ⌛
 
 <!--
 **Manuel-Antunes/Manuel-Antunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
