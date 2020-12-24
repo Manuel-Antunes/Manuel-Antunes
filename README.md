@@ -32,7 +32,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
 ![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logoColor=white&logo=MySQL)
 ![](https://img.shields.io/badge/React-191920?style=flat&logoColor=61DBFB&logo=React)
 ![](https://img.shields.io/badge/Adonisjs-7159C1?style=flat&logoColor=white&logo=Adonisjs)
-
+![](https://img.shields.io/badge/Adonisjs-7159C1?style=flat&logoColor=white&logo=Firebase)
 
 #### 📚 Learning:
 ![](https://img.shields.io/badge/ruby-9B111E?style=flat&logo=ruby&logoColor=white)
