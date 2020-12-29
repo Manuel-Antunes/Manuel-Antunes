@@ -1,5 +1,5 @@
 <h1 align="center">
-Were Welcome!
+Welcome!
 </h1>
 
 
@@ -24,7 +24,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
 ![](https://img.shields.io/badge/C-blue?style=flat)
 ![](https://img.shields.io/badge/Python-002750?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/PHP-6F73A7?style=flat&logo=PHP&logoColor=white)
-![](https://img.shields.io/badge/ElasticSerach-white?style=flat&logo=ElasticSearch&logoColor=FF2800)
+![](https://img.shields.io/badge/ElasticSearch-white?style=flat&logo=ElasticSearch&logoColor=FF2800)
 
 ![](https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=Unreal-Engine)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript)
