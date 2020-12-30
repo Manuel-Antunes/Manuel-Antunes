@@ -29,7 +29,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
 
 
 ![](https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=Unreal-Engine)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/Android%20-3BD481?style=flat&logoColor=white&logo=Android)
 ![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logoColor=white&logo=MySQL)
 ![](https://img.shields.io/badge/React-191920?style=flat&logoColor=61DBFB&logo=React)
