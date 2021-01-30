@@ -42,6 +42,8 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
 ![](https://img.shields.io/badge/ruby-9B111E?style=flat&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-pink?style=flat&logo=tensorflow)
 ![](https://img.shields.io/badge/Spring_WebFlux-6db33f?style=flat&logo=Spring)
+![](https://img.shields.io/badge/-5C2D91?logoWidth=30&logo=.Net)
+![](https://img.shields.io/badge/C%23-239120?logoWidth=30)
 
 
 #### 📊 Statistics to Nerds:
