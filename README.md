@@ -58,6 +58,9 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
 #### 🎓 Education:
 - Técnico em Informática - Insituto Federal de Alagoas - Campus Arapiraca (2018 - Now...) ⌛
 
+### ⚡ Fun fact: 
+- despite programming a lot for the web my main lang is C ++ but my projects haven't come here yet
+
 <!--
 **Manuel-Antunes/Manuel-Antunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
