@@ -5,7 +5,7 @@ Welcome!
 
 
 <p align="center">
-My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper.<br/>
+My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and i love OpenSource🚀.<br/>
   
 </p>
 <a href="mailto:mail.nerdbroz2@gmail.com" alt="Gmail">
