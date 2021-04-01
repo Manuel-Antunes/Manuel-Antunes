@@ -37,6 +37,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/Adonisjs-7159C1?style=flat&logoColor=white&logo=Adonisjs)
 ![](https://img.shields.io/badge/Firebase-039BE5?style=flat&logoColor=FFCC31&logo=Firebase)
 ![](https://img.shields.io/badge/GraphQL-161f26?style=flat&logoColor=e2009b&logo=GraphQl)
+![](https://img.shields.io/badge/NestJs-fff?style=flat&logoColor=ea2845&logo=Nestjs)
 
 #### 📚 Learning:
 ![](https://img.shields.io/badge/ruby-9B111E?style=flat&logo=ruby&logoColor=white)
