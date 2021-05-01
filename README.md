@@ -47,6 +47,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/C%23-239120?logoWidth=30)
 ![](https://img.shields.io/badge/Golang-FFF?style=flat&logo=go)
 ![](https://img.shields.io/badge/Angular-dc0434?style=flat&logo=angular)
+![](https://img.shields.io/badge/Laravel-fff?style=flat&logo=laravel)
 
 
 
