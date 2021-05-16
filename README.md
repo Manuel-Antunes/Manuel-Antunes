@@ -27,6 +27,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/ElasticSearch-white?style=flat&logo=ElasticSearch&logoColor=FF2800)
 ![](https://img.shields.io/badge/Arduino-119CA1?style=flat&logoColor=FFF&logo=Arduino)
 ![](https://img.shields.io/badge/Cocos_Creator-92928f?style=flat&logo=Cocos)
+![](https://img.shields.io/badge/Next.js-000?&style=flat&logo=next.js&logoColor=FFF)
 
 
 ![](https://img.shields.io/badge/Unreal_Engine-black?style=flat&logo=Unreal-Engine)
@@ -39,7 +40,6 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/GraphQL-161f26?style=flat&logoColor=e2009b&logo=GraphQl)
 ![](https://img.shields.io/badge/NestJs-fff?style=flat&logoColor=ea2845&logo=Nestjs)
 ![](https://img.shields.io/badge/Deno-000?&style=flat&logo=deno&logoColor=FFF)
-![](https://img.shields.io/badge/Next.js-000?&style=flat&logo=next.js&logoColor=FFF)
 
 #### 📚 Learning:
 ![](https://img.shields.io/badge/ruby-9B111E?style=flat&logo=ruby&logoColor=white)
