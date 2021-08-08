@@ -42,12 +42,12 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/Deno-000?&style=flat&logo=deno&logoColor=FFF)
 ![](https://img.shields.io/badge/-5C2D91?logoWidth=30&logo=.Net)
 ![](https://img.shields.io/badge/C%23-239120?logoWidth=30)
+![](https://img.shields.io/badge/Golang-FFF?style=flat&logo=go)
 
 #### 📚 Learning:
 ![](https://img.shields.io/badge/ruby-9B111E?style=flat&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-pink?style=flat&logo=tensorflow)
 ![](https://img.shields.io/badge/Spring_WebFlux-6db33f?style=flat&logo=Spring)
-![](https://img.shields.io/badge/Golang-FFF?style=flat&logo=go)
 ![](https://img.shields.io/badge/Angular-dc0434?style=flat&logo=angular)
 ![](https://img.shields.io/badge/Laravel-fff?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/Unity-000?&style=flat&logo=unity&logoColor=FFF)
