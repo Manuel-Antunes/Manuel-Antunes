@@ -8,7 +8,7 @@ Welcome!
 My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and i love OpenSource🚀.<br/>
   
 </p>
-<a href="mailto:mail.nerdbroz2@gmail.com" alt="Gmail">
+<a href="mailto:nerdbroz2@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/mail.nerdbroz2@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.nerdbroz2@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/manuel-antunes-9b69771b0/">
