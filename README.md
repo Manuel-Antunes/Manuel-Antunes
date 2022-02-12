@@ -56,9 +56,14 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 
 
 #### 📊 Statistics to Nerds:
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=manuel-antunes&show_icons=true&theme=radical&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manuel-antunes&theme=radical&hide_border=true">
+</div>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=manuel-antunes&theme=radical&margin-w=9&hide_border=true&count_private=true">
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-antunes&theme=radical&count_private=true&langs_count=8">
-<img src="https://github-profile-trophy.vercel.app/?username=manuel-antunes&theme=onedark&margin-w=9&hide_border=true&count_private=true">
 
 #### 🚀 Working:
 - [ZuckLink](https://zucklink.com/) The best way to work with digital market;
