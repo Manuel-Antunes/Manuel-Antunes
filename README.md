@@ -57,7 +57,6 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 
 #### 📊 Statistics to Nerds:
 <p align="center">
-  <img src="https://camo.githubusercontent.com/68fd82749310c8d89aa5d9d0b4adbe9c49e56fddc4b129bee70ce3909d61197c/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6c656f6468622f636f756e742e737667"><br />
   <img src="https://github-readme-stats.vercel.app/api?username=manuel-antunes&show_icons=true&theme=radical&count_private=true"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuel-antunes&theme=radical&hide_border=true"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-antunes&theme=radical&count_private=true&langs_count=8"><br/>
