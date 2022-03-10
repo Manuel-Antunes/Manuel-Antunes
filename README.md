@@ -52,7 +52,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/Laravel-fff?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/Unity-000?&style=flat&logo=unity&logoColor=FFF)
 ![](https://img.shields.io/badge/Elixir-fff?&style=flat&logo=elixir&logoColor=4a3560)
-
+![](https://img.shields.io/badge/Serverless-000?&style=flat&logo=serverless&logoColor=f15953)
 
 
 #### 📊 Statistics to Nerds:
