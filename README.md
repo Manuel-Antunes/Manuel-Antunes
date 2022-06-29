@@ -41,6 +41,8 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/NestJs-fff?style=flat&logoColor=ea2845&logo=Nestjs)
 ![](https://img.shields.io/badge/Deno-000?&style=flat&logo=deno&logoColor=FFF)
 ![](https://img.shields.io/badge/-5C2D91?logoWidth=30&logo=.Net)
+
+
 ![](https://img.shields.io/badge/C%23-239120?logoWidth=30)
 ![](https://img.shields.io/badge/Golang-FFF?style=flat&logo=go)
 ![](https://img.shields.io/badge/Laravel-fff?style=flat&logo=laravel)
