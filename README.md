@@ -14,7 +14,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 <a href="https://www.linkedin.com/in/manuel-antunes-9b69771b0/">
   <img src="https://img.shields.io/badge/Manuel%20Antunes-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/manuel-antunes-9b69771b0/"/>
 </a>
-<a href="https://www.linkedin.com/in/manuel-antunes-9b69771b0/">
+<a href="https://www.instagram.com/manuelatns/">
   <img src="https://img.shields.io/badge/@manuelatns-ebebeb?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/manuelatns/"/>
 </a>
 
