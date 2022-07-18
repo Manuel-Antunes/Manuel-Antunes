@@ -8,11 +8,14 @@ Welcome!
 My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and i love OpenSource🚀.<br/>
   
 </p>
-<a href="mailto:nerdbroz2@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/mail.nerdbroz2@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.nerdbroz2@gmail.com"/>
+<a href="mailto:manuelnascimento5589@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/manuelnascimento5589@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:manuelnascimento5589@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/manuel-antunes-9b69771b0/">
   <img src="https://img.shields.io/badge/Manuel%20Antunes-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/manuel-antunes-9b69771b0/"/>
+</a>
+<a href="https://www.linkedin.com/in/manuel-antunes-9b69771b0/">
+  <img src="https://img.shields.io/badge/@manuelatns-ebebeb?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/manuelatns/"/>
 </a>
 
 #### 😎 Skills
