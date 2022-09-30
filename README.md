@@ -25,7 +25,6 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/CSS3-2862E9?style=flat&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-968220?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/C-blue?style=flat)
-![](https://img.shields.io/badge/Python-002750?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/PHP-6F73A7?style=flat&logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/ElasticSearch-white?style=flat&logo=ElasticSearch&logoColor=FF2800)
 ![](https://img.shields.io/badge/Arduino-119CA1?style=flat&logoColor=FFF&logo=Arduino)
@@ -59,6 +58,7 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/Spring_WebFlux-6db33f?style=flat&logo=Spring)
 ![](https://img.shields.io/badge/Unity-000?&style=flat&logo=unity&logoColor=FFF)
 ![](https://img.shields.io/badge/Elixir-fff?&style=flat&logo=elixir&logoColor=4a3560)
+![](https://img.shields.io/badge/Python-002750?style=flat&logo=Python&logoColor=white)
 
 
 #### 📊 Statistics to Nerds:
