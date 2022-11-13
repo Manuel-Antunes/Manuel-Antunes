@@ -1,8 +1,4 @@
-<h1 align="center">
-Welcome!
-</h1>
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Faaaaala%2C+Gurizada!+%E2%9A%A1)](https://git.io/typing-svg)
 
 <p align="center">
 My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and i love OpenSource🚀.<br/>
