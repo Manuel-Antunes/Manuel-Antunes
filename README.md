@@ -1,12 +1,12 @@
-<center>
+<p align="center">
 <img src="./public/icon.png" width="100px">
-</center>
+</p>
 
-<center>
+<p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Faaaaala%2C+Gurizada!+%E2%9A%A1)](https://git.io/typing-svg)
 
-</center>
+</p>
 
 <p align="center">
 My name is Manuel Antunes. CEO at Lisbom, Senior Full stack developer, GameDeveloper, and Digital Marketing Dev.<br/>
