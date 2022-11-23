@@ -2,17 +2,15 @@
 <img src="./public/icon.png" width="100px">
 </p>
 
-<p>
+<p align="center">
+My name is Manuel Antunes. CEO at Lisbom, Senior Full stack developer, GameDeveloper, and Digital Marketing Dev.<br/>
+</p>
 
+<p>
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Faaaaala%2C+Gurizada!+%E2%9A%A1)](https://git.io/typing-svg)
 
 </p>
-
-<p align="center">
-My name is Manuel Antunes. CEO at Lisbom, Senior Full stack developer, GameDeveloper, and Digital Marketing Dev.<br/>
-<br/>
-</p>
-
 <a href="https://manuelantun.es" alt="Gmail">
   <img src="https://img.shields.io/badge/Entrar%20na%20Comunidade%20do%20Discord-000000?style=for-the-badge&logoColor=white&logo=discord&link=https://manuelantun.es"/>
 </a>
