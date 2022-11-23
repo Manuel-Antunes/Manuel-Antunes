@@ -1,18 +1,35 @@
+<center>
+<img src="./public/icon.png" width="100px">
+</center>
+
+<center>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Faaaaala%2C+Gurizada!+%E2%9A%A1)](https://git.io/typing-svg)
 
+</center>
+
 <p align="center">
-My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and i love OpenSource🚀.<br/>
-  
+My name is Manuel Antunes. CEO at Lisbom, Senior Full stack developer, GameDeveloper, and Digital Marketing Dev.<br/>
+<br/>
 </p>
+
+<a href="https://manuelantun.es" alt="Gmail">
+  <img src="https://img.shields.io/badge/Entrar%20na%20Comunidade%20do%20Discord-000000?style=for-the-badge&logoColor=white&logo=discord&link=https://manuelantun.es"/>
+</a>
 <a href="mailto:manuelnascimento5589@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/manuelnascimento5589@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:manuelnascimento5589@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/manuel-antunes-9b69771b0/">
-  <img src="https://img.shields.io/badge/Manuel%20Antunes-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/manuel-antunes-9b69771b0/"/>
+<a href="https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg">
+  <img src="https://img.shields.io/badge/Manuel Antunes-ff1a1a?style=for-the-badge&logo=Youtube&link=https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg"/>
 </a>
 <a href="https://www.instagram.com/manuelatns/">
   <img src="https://img.shields.io/badge/@manuelatns-ebebeb?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/manuelatns/"/>
 </a>
+<a href="https://www.linkedin.com/in/manuel-antunes-9b69771b0/">
+  <img src="https://img.shields.io/badge/Manuel%20Antunes-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/manuel-antunes-9b69771b0/"/>
+</a>
+
+<br>
 
 #### 😎 Skills
 ![](https://img.shields.io/badge/Java-F74141?style=flat&logo=Java)
@@ -48,6 +65,8 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/Serverless-000?&style=flat&logo=serverless&logoColor=f15953)
 ![](https://img.shields.io/badge/Quarkus-4490e4?&style=flat&logo=quarkus&logoColor=f15953)
 
+<br>
+
 #### 📚 Learning:
 ![](https://img.shields.io/badge/ruby-9B111E?style=flat&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-pink?style=flat&logo=tensorflow)
@@ -56,8 +75,11 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
 ![](https://img.shields.io/badge/Elixir-fff?&style=flat&logo=elixir&logoColor=4a3560)
 ![](https://img.shields.io/badge/Python-002750?style=flat&logo=Python&logoColor=white)
 
+<br>
 
 #### 📊 Statistics to Nerds:
+
+<br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Manuel-Antunes/count.svg"><br />
   <img src="https://github-readme-stats.vercel.app/api?username=manuel-antunes&show_icons=true&theme=radical&count_private=true"><br/>
@@ -66,18 +88,14 @@ My name is Manuel Antunes and I'm a Full stack developer and GameDeveloper, and 
   <img src="https://github-profile-trophy.vercel.app/?username=manuel-antunes&theme=radical&margin-w=9&hide_border=true&count_private=true"><br/>
 </p>
 
-#### 🚀 Working:
-- [ZuckLink](https://zucklink.com/) The best way to work with digital market;
-- [TyltyScore]() Watch your game scores in real time!!;
-- [DadosJusBr](http://dadosjusbr.org/) Continuous release of data on remuneration from the Brazilian justice system ;
-- A game, but it's a secret ...🤭;
-- Peixonalta System;
-
 #### 🎓 Education:
 - Técnico em Informática - Insituto Federal de Alagoas - Campus Arapiraca (2018 - Now...) ⌛
 
 ### ⚡ Fun fact: 
 - despite programming a lot for the web my main lang is C ++ but my projects haven't come here yet
+
+![](./public/capa.png)
+
 
 <!--
 **Manuel-Antunes/Manuel-Antunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
