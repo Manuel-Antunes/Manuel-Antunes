@@ -82,9 +82,9 @@ My name is Manuel Antunes. CEO at Lisbom, Senior Full stack developer, GameDevel
 <br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Manuel-Antunes/count.svg"><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-antunes&theme=radical&count_private=true&langs_count=8"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=manuel-antunes&show_icons=true&theme=radical&count_private=true"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuel-antunes&theme=radical&hide_border=true"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-antunes&theme=radical&count_private=true&langs_count=8"><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=manuel-antunes&theme=radical&margin-w=9&hide_border=true&count_private=true"><br/>
 </p>
 
