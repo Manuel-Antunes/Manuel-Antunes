@@ -95,7 +95,10 @@ My name is Manuel Antunes. CEO at Lisbom, Senior Full stack developer, GameDevel
 ### ⚡ Fun fact: 
 - despite programming a lot for the web my main lang is C ++ but my projects haven't come here yet
 
-![](./public/capa.png)
+
+<a href="https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg">
+  <img src="./public/capa.png" alt="Capa Youtube" />
+</a>
 
 
 <!--
