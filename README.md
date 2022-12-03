@@ -17,6 +17,7 @@ My name is Manuel Antunes. CEO at Lisbom, Senior Full stack developer, GameDevel
 <a href="mailto:manuelnascimento5589@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/manuelnascimento5589@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:manuelnascimento5589@gmail.com"/>
 </a>
+<br />
 <a href="https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg">
   <img src="https://img.shields.io/badge/Manuel Antunes-ff1a1a?style=for-the-badge&logo=Youtube&link=https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg"/>
 </a>
