@@ -64,7 +64,7 @@ My name is Manuel Antunes. CEO at Lisbom, Senior Full stack developer, GameDevel
 ![](https://img.shields.io/badge/Serverless-000?&style=flat&logo=serverless&logoColor=f15953)
 ![](https://img.shields.io/badge/Quarkus-4490e4?&style=flat&logo=quarkus&logoColor=f15953)
 ![](https://img.shields.io/badge/Terraform-5f43e9?&style=flat&logo=terraform&logoColor=ffffff)
-![](https://img.shields.io/badge/Docker-5f43e9?&style=flat&logo=docker&logoColor=ffffff)
+![](https://img.shields.io/badge/Docker-228fe1?&style=flat&logo=docker&logoColor=ffffff)
 
 <br>
 
