@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-My name is Manuel Antunes. CEO at Lisbom, Senior Full stack developer, GameDeveloper, and Digital Marketing Dev.<br/>
+  My name is Manuel Antunes. CEO at <a href="https://lisbom.com.br">Lisbom</a>, Senior Full stack developer, GameDeveloper, and Digital Marketing Dev.<br/>
 </p>
 
 <p>
