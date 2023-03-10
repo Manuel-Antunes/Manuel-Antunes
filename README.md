@@ -65,6 +65,7 @@
 ![](https://img.shields.io/badge/Quarkus-4490e4?&style=flat&logo=quarkus&logoColor=f15953)
 ![](https://img.shields.io/badge/Terraform-5f43e9?&style=flat&logo=terraform&logoColor=ffffff)
 ![](https://img.shields.io/badge/Docker-228fe1?&style=flat&logo=docker&logoColor=ffffff)
+![](https://img.shields.io/badge/Python-002750?style=flat&logo=Python&logoColor=white)
 
 <br>
 
@@ -74,7 +75,6 @@
 ![](https://img.shields.io/badge/Spring_WebFlux-6db33f?style=flat&logo=Spring)
 ![](https://img.shields.io/badge/Unity-000?&style=flat&logo=unity&logoColor=FFF)
 ![](https://img.shields.io/badge/Elixir-fff?&style=flat&logo=elixir&logoColor=4a3560)
-![](https://img.shields.io/badge/Python-002750?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Pulumi-ffffff?style=flat&logo=pulumi&logoColor=4c2161)
 
 <br>
