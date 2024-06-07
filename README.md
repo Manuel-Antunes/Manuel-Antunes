@@ -14,8 +14,8 @@
 <a href="https://manuelantun.es" alt="Gmail">
   <img src="https://img.shields.io/badge/Entrar%20na%20Comunidade%20do%20Discord-000000?style=for-the-badge&logoColor=white&logo=discord&link=https://manuelantun.es"/>
 </a>
-<a href="mailto:manuelnascimento5589@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/manuelnascimento5589@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:manuelnascimento5589@gmail.com"/>
+<a href="mailto:manuel@lisbom.com.br" alt="Gmail">
+  <img src="https://img.shields.io/badge/manuel@lisbom.com.br-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:manuelnascimento5589@gmail.com"/>
 </a>
 <br />
 <a href="https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg">
