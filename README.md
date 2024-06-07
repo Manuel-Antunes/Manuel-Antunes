@@ -21,8 +21,8 @@
 <a href="https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg">
   <img src="https://img.shields.io/badge/Manuel Antunes-ff1a1a?style=for-the-badge&logo=Youtube&link=https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg"/>
 </a>
-<a href="https://www.instagram.com/manuelatns/">
-  <img src="https://img.shields.io/badge/@manuelatns-ebebeb?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/manuelatns/"/>
+<a href="https://www.instagram.com/_manuel.antunes/">
+  <img src="https://img.shields.io/badge/@_manuel.antunes-ebebeb?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/manuelatns/"/>
 </a>
 <a href="https://www.linkedin.com/in/manuel-antunes-9b69771b0/">
   <img src="https://img.shields.io/badge/Manuel%20Antunes-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/manuel-antunes-9b69771b0/"/>
