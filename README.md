@@ -52,6 +52,7 @@
 ![](https://img.shields.io/badge/Adonisjs-7159C1?style=flat&logoColor=white&logo=Adonisjs)
 ![](https://img.shields.io/badge/Firebase-039BE5?style=flat&logoColor=FFCC31&logo=Firebase)
 ![](https://img.shields.io/badge/GraphQL-161f26?style=flat&logoColor=e2009b&logo=GraphQl)
+![](https://img.shields.io/badge/Relay-161f26?style=flat&logoColor=e2009b&logo=Relay)
 ![](https://img.shields.io/badge/NestJs-fff?style=flat&logoColor=ea2845&logo=Nestjs)
 ![](https://img.shields.io/badge/Deno-000?&style=flat&logo=deno&logoColor=FFF)
 ![](https://img.shields.io/badge/-5C2D91?logoWidth=30&logo=.Net)
