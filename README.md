@@ -19,7 +19,7 @@
 </a>
 <br />
 <a href="https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg">
-  <img src="https://img.shields.io/badge/Manuel Antunes-ff1a1a?style=for-the-badge&logo=Youtube&link=https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg"/>
+  <img src="https://img.shields.io/badge/Manuel%20Antunes-ff1a1a?style=for-the-badge&logo=Youtube&link=https://www.youtube.com/channel/UCVTz4kJ9UhYjOZMx3VHzuWg"/>
 </a>
 <a href="https://www.instagram.com/_manuel.antunes/">
   <img src="https://img.shields.io/badge/@_manuel.antunes-ebebeb?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/manuelatns/"/>
@@ -84,9 +84,9 @@
 
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Manuel-Antunes/count.svg"><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-antunes&theme=radical&count_private=true&langs_count=8"><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=manuel-antunes&show_icons=true&theme=radical&count_private=true"><br/>
+  <img src="https://komarev.com/ghpvc/?username=Manuel-Antunes&color=ff1a1a"><br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manuel-antunes&theme=radical&count_private=true&langs_count=8"><br/>
+  <img src="https://github-stats-extended.vercel.app/api?username=manuel-antunes&show_icons=true&theme=radical&count_private=true"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuel-antunes&theme=radical&hide_border=true"><br/>
   <img src="https://github-trophies.vercel.app/?username=manuel-antunes&theme=radical&margin-w=9&hide_border=true&count_private=true"><br/>
 </p>
